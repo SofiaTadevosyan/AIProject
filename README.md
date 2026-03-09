@@ -13,19 +13,6 @@ The project demonstrates both **data-driven AI (Deep Learning)** and **symbolic 
 
 ---
 
-# Project Structure
-
-```
-.
-├── README.md
-├── requirements.txt
-├── Untitled9 (1).ipynb
-├── botany.py
-├── sql.py
-├── Botany.rdf
-├── catalog-v001.xml
-├── botany_entities.db
-```
 
 ### File description
 
