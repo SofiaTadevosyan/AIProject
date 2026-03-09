@@ -18,11 +18,9 @@ The project demonstrates both **data-driven AI (Deep Learning)** and **symbolic 
 
 | File | Description |
 |-----|-------------|
-| Untitled9 (1).ipynb | Deep learning notebook for plant recognition |
+| PlantRecognition.ipynb | Deep learning notebook for plant recognition |
 | botany.py | Script that loads ontology, maps database data, and runs reasoning |
-| sql.py | Script that creates and populates the SQLite database |
 | Botany.rdf | OWL ontology describing plants, habitats, and regions |
-| catalog-v001.xml | Ontology catalog configuration |
 | botany_entities.db | SQLite database with plant entities |
 | requirements.txt | Python dependencies |
 
