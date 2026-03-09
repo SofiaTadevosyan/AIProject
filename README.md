@@ -209,13 +209,4 @@ Standard Python libraries used:
 - sys
 - re
 
----
 
-# Author
-
-Lina Babayan
-
-French University in Armenia  
-M1 Artificial Intelligence Project
-
----
