@@ -1,6 +1,8 @@
 # AIProject
 AI project implementing plant species classification using transfer learning and a semantic ontology system for botanical knowledge representation and reasoning.
 
+# Google Colab Link
+https://colab.research.google.com/drive/1f7ErXOtrsGmjVICI9nJ06mjJR7QxZmGx?usp=sharing
 
 # Automated Plant Recognition and Botanical Knowledge Representation
 
